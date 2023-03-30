@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mob</string>
+    <string name="channel_name">channel</string>
+    <string name="channel_description">ChannelDesc</string>
+    <string name="first">First</string>
+    <string name="second">second</string>
+</resources>
